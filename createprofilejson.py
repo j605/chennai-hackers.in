@@ -77,6 +77,12 @@ def main():
                      ],
             "profileurl": "http://pranavrc.wordpress.com",
             },
+        {
+            "screenname": "j605",
+            "avatar": [],
+            "desc": ["ubuntu, python, vim, and i hate my stupid hostel"],
+            "profileurl": "#",
+            },
     ]
 
     print json.dumps(jsondict)
